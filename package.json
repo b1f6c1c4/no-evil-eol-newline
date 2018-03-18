@@ -4,9 +4,6 @@
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "no-evil-eol-newline:toggle"
-  },
   "repository": "https://github.com/atom/no-evil-eol-newline",
   "license": "MIT",
   "engines": {
