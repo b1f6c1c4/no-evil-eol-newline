@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle no-evil-eol-newline",
+        "command": "no-evil-eol-newline:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "no-evil-eol-newline",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "no-evil-eol-newline:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
