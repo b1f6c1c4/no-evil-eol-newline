@@ -43,7 +43,7 @@
       }
     ],
     "import/no-named-as-default": "off",
-    "import/no-unresolved": "error",
+    "import/no-unresolved": "off",
     "import/no-webpack-loader-syntax": "error",
     "import/prefer-default-export": "off",
     "indent": [
