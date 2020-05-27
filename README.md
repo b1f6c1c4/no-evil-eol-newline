@@ -1,8 +1,10 @@
 # no-evil-eol-newline
 
-> Hide the last 'new line', just like vim does.
+[![APM](https://img.shields.io/apm/v/no-evil-eol-newline) ![APM](https://img.shields.io/apm/dm/no-evil-eol-newline?color=e67aa1) ![APM](https://img.shields.io/apm/l/no-evil-eol-newline) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/b1f6c1c4/no-evil-eol-newline)](https://atom.io/packages/no-evil-eol-newline)
 
-[:arrow_right: Link to the package on atom.io :arrow_left:](https://atom.io/packages/no-evil-eol-newline)
+> Hide the last 'new line', just like Vim and GitHub.
+
+[:arrow_right: Link to the package on APM on atom.io :arrow_left:](https://atom.io/packages/no-evil-eol-newline)
 
 ![Screenshot](screenshot.png)
 
@@ -29,9 +31,5 @@ More precisely,
 
 **Attention:**
 This package only deals with how things **appear**: it **never** modify any bit of your file content. Thus, this package:
-  - Is compatible with `whitespace`, `editorconfig`, and other packages.
+  - Is compatible with `whitespace`, `editorconfig`, `vim-mode-plus`, and other packages.
   - Works consistently on Linux, macOS, and Windows.
-
-# Contributing
-
-Feel free to *write another package from scratch and replace this patch* because this is so poorly-written that really needs rewriting.
