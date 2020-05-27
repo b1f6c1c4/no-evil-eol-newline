@@ -1,7 +1,7 @@
 {
   "name": "no-evil-eol-newline",
   "main": "./lib/no-evil-eol-newline",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Hide the last 'new line', just like Vim and GitHub.",
   "keywords": [
     "vim",
