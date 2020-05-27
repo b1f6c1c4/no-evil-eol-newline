@@ -2,6 +2,10 @@
 
 > Hide the last 'new line', just like vim does.
 
+[:arrow_right: Link to the package on atom.io :arrow_left:](https://atom.io/packages/no-evil-eol-newline)
+
+![Screenshot](screenshot.png)
+
 # Precondition
 
 This package is meant for:
